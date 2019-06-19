@@ -2,8 +2,11 @@
 *.slo
 *.lo
 *.o
+<<<<<<< HEAD
 main
 *.exe
+=======
+>>>>>>> 65f62e923eca4408c45fe178c02476918db9ebbc
 
 # Compiled Dynamic libraries
 *.so
@@ -25,3 +28,13 @@ trunk/mgf/
 !file_test.mgf
 *.arp
 *.vim
+<<<<<<< HEAD
+=======
+lib
+build
+Monitoring
+mgf
+harpe-algo
+Socket
+/CodeBlocks/CodeBlocks/obj
+>>>>>>> 65f62e923eca4408c45fe178c02476918db9ebbc
